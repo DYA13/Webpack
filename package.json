@@ -43,6 +43,7 @@
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
+    "@babel/polyfill": "^7.12.1",
     "normalize.css": "^8.0.1",
     "optipng-bin": "^9.0.0",
     "uuid": "^9.0.1"
